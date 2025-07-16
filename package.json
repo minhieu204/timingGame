@@ -1,6 +1,6 @@
 {
   "name": "18.1",
-  "homepage": "https://minhhieu204.github.io/timingGame",
+  "homepage": "https://minhieu204.github.io/timingGame",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
